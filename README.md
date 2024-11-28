@@ -1,7 +1,7 @@
 # **SyntheticA Cinematic Universe (SCU) Repository**
 
 ## **Overview**
-The **SyntheticA Cinematic Universe (SCU)** is a dynamic, story-driven ecosystem that blends **faith, technology, and interconnectivity** into a compelling narrative framework. Rooted in the principles of **J.J. Michael F. Morris | ARKTIK Ministries**, the SCU serves as a creative extension of the **ARKTIK Initiative** by using storytelling, world-building, and character arcs to explore themes of **Abrahamic reconciliation, ethical innovation, and spiritual growth**.
+The **SyntheticA Cinematic Universe (SCU)** is a dynamic, story-driven ecosystem that blends **faith, technology, and interconnectivity** into a compelling narrative framework. Rooted in the principles of **J Michael F. Morris | ARKTIK Ministries**, the SCU serves as a creative extension of the **ARKTIK Initiative** by using storytelling, world-building, and character arcs to explore themes of **Abrahamic reconciliation, ethical innovation, and spiritual growth**.
 
 This repository is designed to align the SCU with the overarching mission of **ARKTIK Ministries: Abrahamic Reconciliation Through Knowledge and Faith-Based Common Ground Kinship** while offering a blueprint for integrating **faith-centered storytelling, interactive media, and educational content**.
 
